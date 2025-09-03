@@ -1,6 +1,6 @@
 # ИИ-ассистент для составления плана тренировок
 Ссылка на проект - https://t.me/consmaster_bot
-![Иллюстрация к проекту](https://github.com/)
+![Иллюстрация к проекту](https://github.com/A1936/AI-Sports-Coach/blob/main/1.png?raw=true)
 
 ## Описание проекта
 
